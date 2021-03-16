@@ -1,4 +1,4 @@
-module github.com/agusluques/bookstore/bookstore_utils-go
+module github.com/agusluques/bookstore_utils-go
 
 go 1.15
 
